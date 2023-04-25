@@ -8,3 +8,5 @@ def hello(a):
 
 def hihi(c):
     return c
+
+print(a)
