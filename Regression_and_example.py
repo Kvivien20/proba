@@ -1,6 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
-from feladat import LinearRegresssion
+from sklearn.linear_model import LinearRegression
+from feladat import generate_synthetic_data
 
 def fit_linear_regression(x,y):
     lr= LinearRegression()
