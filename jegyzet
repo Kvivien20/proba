@@ -1,0 +1,14 @@
+04.25. Hitelek és kockázatok óra
+1. Bevezetés: Models and Machine Learning
+    * a jelen/valóság megértésére használják, hogy jósoljon és döntéseket hozzon
+    * ML modellek:
+        -automatikusan tanulnak az adatokból
+        -nem az volt a lényeg, hogy szofisztikált legyen
+        -unsupervised: nincs megadva output, csak halmaz
+2. Features and Target Variables
+    *features: inputok (független változók)
+    * target (függő változó): "Mennyit ér a ház?"
+
+3. A machine learning célja
+    *a szabályokat tanulja magától
+
