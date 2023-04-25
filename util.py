@@ -5,3 +5,6 @@ def osszead(a,b):
 
 def hello(a):
     return a
+
+def hihi(c):
+    return c
